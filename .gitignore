@@ -3,3 +3,5 @@ app/src/main/jniLibs/
 *.iml
 build/
 .gradle/
+obj/
+libs/

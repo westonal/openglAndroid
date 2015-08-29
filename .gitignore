@@ -1,5 +1,2 @@
-obj/
-libs/
-bin/
-.externalToolBuilders/
-.settings/
+app/src/main/jniLibs/
+.idea/

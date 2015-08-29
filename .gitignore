@@ -1,5 +1,7 @@
+app/src/main/jniLibs/
+.idea/
+*.iml
+build/
+.gradle/
 obj/
 libs/
-bin/
-.externalToolBuilders/
-.settings/

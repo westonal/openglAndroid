@@ -1,4 +1,4 @@
 # openglAndroid
 OpenGl Android native basic demo
 
-Old eclipse based project for simple OpenGl native setup.
+Simple OpenGl native setup using Android Studio.
